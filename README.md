@@ -27,7 +27,7 @@ When the user is finished entering their information, a ReadMe.md file is create
 
 ![Portfolio-Generator](https://user-images.githubusercontent.com/64170123/192424516-6f903e24-255c-4bfc-b6fc-a439c0d4a3ad.png)
 
-![Portfolio-Generator2](https://user-images.githubusercontent.com/64170123/192424527-f3ccea7a-dd98-4bae-998a-dd97e451ef4f.png")
+![Portfolio-Generator2](https://user-images.githubusercontent.com/64170123/192424527-f3ccea7a-dd98-4bae-998a-dd97e451ef4f.png)
 
 ## Links
 
