@@ -1,8 +1,10 @@
 # Portfolio-Generator
 
-# Professional Portfolio Generator
+Template to create a personal portfolio.
 
 ## Description
+
+Professional Portfolio Generator
 
 This project worked with node and npm dependencies to automatically generate a professional portfolio markdown document based on user input.  
 
